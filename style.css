@@ -55,4 +55,30 @@ h2{
     height: 150px;
     display: flex;
     align-self: center;
+
+}
+
+media (max-width: 800px){
+
+    #card{
+        height: 161px;
+        width: 80%;
+        font-size: 20px;
+    }
+
+    .mc{
+        width: 100px;
+        height: 60px;
+    }
+    h2{
+        margin-left: 15px;
+        font-size: 20px;
+    }
+    #acn{
+        font-size: 20px;
+    }
+    #cdnm{
+        font-size: 20px;
+        margin-left: 15px;
+    }
 }
